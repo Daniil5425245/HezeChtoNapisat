@@ -49,19 +49,6 @@ h2{
     "SHRP" 0;
 }
   
-#navbar {
-  overflow: hidden;
-  background-color: #341804;
-}
-
-#navbar a {
-  float: left;
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px;
-  text-decoration: none;
-}
 
 
 
