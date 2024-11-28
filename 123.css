@@ -1,8 +1,8 @@
 
 #f{
     display: inline;
-     width: 360px;
-    height: 400px;
+     width: 460px;
+    height: 500px;
     margin-left: 20px;
     border: 7px solid  #cb5425;
     background-color:rgba(102, 41, 11, 0.325);
@@ -21,8 +21,8 @@ body{
 }
 #f{
     display: inline;
-      width: 360px;
-    height: 400px;
+      width: 460px;
+    height: 500px;
     margin-left: 20px;
     border: 7px solid  #cb5425;
     background-color:rgba(102, 41, 11, 0.325);
