@@ -1,12 +1,4 @@
-#d{
-    display: inline;
-    width: 360px;
-    height: 400px;
-    border: 7px solid #cb5425;
-    background-color: rgba(102, 41, 11, 0.396);
-    border-radius: 15px;
-  
-}
+
 #f{
     display: inline;
      width: 360px;
@@ -23,11 +15,8 @@ button{
 body{
   background-size: cover;
   background-image: url("aesthetic-leaf-watercolor-background-orange-autumn-season.jpg");
-    width: 480px;
-    height: 600px;
-    border: 7px solid #cb5425;
     background-color: rgba(102, 41, 11, 0.396);
-    border-radius: 15px;
+ 
   
 }
 #f{
@@ -253,10 +242,7 @@ h2{
     "SHRP" 0;
 }
   
-.d{
-width: 100px;
-height: 300px;
-}
+
 
 #navbar {
   overflow: hidden;
