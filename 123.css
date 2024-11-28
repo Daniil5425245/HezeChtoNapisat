@@ -52,44 +52,6 @@ h2{
   
 
 
-#navbar {
-  overflow: hidden;
-  background-color: #341804;
-}
 
-#navbar a {
-  float: left;
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px;
-  text-decoration: none;
-}
-a{
-  transition: 0.3s;
-  font-family: 
-   'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-   text-decoration: none;
-}
-a:hover{
-  background-color: #e06331;
-  
-}
-
-.content {
-  padding: 16px;
-}
-
-
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-.sticky + .content {
-  padding-top: 60px;
-}");
-}
 
 
