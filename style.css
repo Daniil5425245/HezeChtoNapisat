@@ -12,7 +12,7 @@ button{
   margin-left: 50px;
   width: 210px;
   height: 55px;
-  background-color: rgba(255, 255, 255, 0.721) ;
+  background-color: rgba(255, 120, 255, 0.721) ;
   border: 3px solid white;
 
 }
@@ -50,13 +50,13 @@ text-decoration: none;
 }
 
 button:hover {
-  background-color: rgba(255, 255, 0, 0);
+  background-color: rgba(255, 120, 0, 0);
   border: 3px solid white;
     cursor: url('pngwing.com.png'), auto;
 
 }
 button:hover a{
-  background-color: rgba(255, 255, 0, 0);
+  background-color: rgba(255, 120, 0, 0);
   color: aliceblue;
     cursor: url('pngwing.com.png'), auto;
 }
